@@ -1,3 +1,5 @@
 # Local-Bus-Management
 
-> Detailed description of the project coming soon.
+Local Bus management app developed using XAMPP
+
+Admin: [Kashish](https://github.com/Kashish121)
